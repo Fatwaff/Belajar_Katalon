@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite Lowongan,Chrome 124.0.0.0,,,16-05-2024 17:04:07,16-05-2024 17:04:37,30.064s,PASSED
+,,,,,,,
+Test Cases/Test Case Detail Lowongan,Chrome 124.0.0.0,,,16-05-2024 17:04:08,16-05-2024 17:04:21,13.962s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,16-05-2024 17:04:08,16-05-2024 17:04:09,1.651s,PASSED
+"navigateToUrl(""https://intermoni.my.id/"")",Chrome 124.0.0.0,,,16-05-2024 17:04:09,16-05-2024 17:04:10,0.943s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/a_Sign In""))",Chrome 124.0.0.0,,,16-05-2024 17:04:10,16-05-2024 17:04:13,2.140s,PASSED
+"setText(findTestObject(""Object Repository/Page_Intern Monitoring/input_Email_email""), ""dimasmhs@gmail.com"")",Chrome 124.0.0.0,,,16-05-2024 17:04:13,16-05-2024 17:04:13,0.795s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/div_Email                                  _8a7a42""))",Chrome 124.0.0.0,,,16-05-2024 17:04:13,16-05-2024 17:04:14,0.332s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Intern Monitoring/input_Password_hs-toggle-password""), ""STHXi5z88sQjYwmfOpsi7g=="")",Chrome 124.0.0.0,,,16-05-2024 17:04:14,16-05-2024 17:04:14,0.459s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/button_Sign in""))",Chrome 124.0.0.0,,,16-05-2024 17:04:14,16-05-2024 17:04:14,0.347s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/button_OK""))",Chrome 124.0.0.0,,,16-05-2024 17:04:14,16-05-2024 17:04:19,4.253s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/a_Cari Internship""))",Chrome 124.0.0.0,,,16-05-2024 17:04:19,16-05-2024 17:04:20,1.273s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/a_Detail""))",Chrome 124.0.0.0,,,16-05-2024 17:04:20,16-05-2024 17:04:21,1.483s,PASSED
+,,,,,,,
+Test Cases/Test Case Apply Lowongan,Chrome 124.0.0.0,,,16-05-2024 17:04:21,16-05-2024 17:04:37,15.864s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,16-05-2024 17:04:22,16-05-2024 17:04:23,0.987s,PASSED
+"navigateToUrl(""https://intermoni.my.id/"")",Chrome 124.0.0.0,,,16-05-2024 17:04:23,16-05-2024 17:04:24,1.233s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/a_Sign In""))",Chrome 124.0.0.0,,,16-05-2024 17:04:24,16-05-2024 17:04:25,1.361s,PASSED
+"setText(findTestObject(""Object Repository/Page_Intern Monitoring/input_Email_email""), ""dimasmhs@gmail.com"")",Chrome 124.0.0.0,,,16-05-2024 17:04:25,16-05-2024 17:04:26,0.861s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Intern Monitoring/input_Password_hs-toggle-password""), ""STHXi5z88sQjYwmfOpsi7g=="")",Chrome 124.0.0.0,,,16-05-2024 17:04:26,16-05-2024 17:04:26,0.426s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/button_Sign in""))",Chrome 124.0.0.0,,,16-05-2024 17:04:26,16-05-2024 17:04:27,0.350s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/button_OK""))",Chrome 124.0.0.0,,,16-05-2024 17:04:27,16-05-2024 17:04:31,4.468s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/a_Cari Internship""))",Chrome 124.0.0.0,,,16-05-2024 17:04:31,16-05-2024 17:04:33,1.547s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/a_Detail""))",Chrome 124.0.0.0,,,16-05-2024 17:04:33,16-05-2024 17:04:34,1.528s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/button_Apply""))",Chrome 124.0.0.0,,,16-05-2024 17:04:34,16-05-2024 17:04:35,1.050s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/button_Ya, Apply""))",Chrome 124.0.0.0,,,16-05-2024 17:04:35,16-05-2024 17:04:36,0.470s,PASSED
+"click(findTestObject(""Object Repository/Page_Intern Monitoring/button_OK""))",Chrome 124.0.0.0,,,16-05-2024 17:04:36,16-05-2024 17:04:37,1.224s,PASSED
+closeBrowser(),Chrome 124.0.0.0,,,16-05-2024 17:04:37,16-05-2024 17:04:37,0.232s,PASSED
